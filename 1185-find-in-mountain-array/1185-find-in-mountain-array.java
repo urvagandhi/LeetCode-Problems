@@ -14,11 +14,10 @@ class Solution {
 
         int start = 0;
         int end = mountainArr.length() - 1;
-        int mid = divide;
 
-        int targetIndex = orderAgnosticBS(mountainArr, target, start, mid, true);
+        int targetIndex = orderAgnosticBS(mountainArr, target, start, divide, true);
         if (targetIndex == -1) {
-            targetIndex = orderAgnosticBS(mountainArr, target, mid, end, false);
+            targetIndex = orderAgnosticBS(mountainArr, target, divide, end, false);
         }
         return targetIndex;
     }

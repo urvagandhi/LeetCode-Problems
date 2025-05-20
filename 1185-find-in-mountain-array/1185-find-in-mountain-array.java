@@ -16,13 +16,11 @@ class Solution {
         int end = mountainArr.length() - 1;
         int mid = divide;
 
-        if(mountainArr.get(mid) == target) return mid;
-        int incIndex = orderAgnosticBS(mountainArr,target, start, mid, true);
-        int descIndex = orderAgnosticBS(mountainArr,target, mid, end, false);
-        
-        if (incIndex != -1) return incIndex;
-        else if(descIndex != -1) return descIndex;
-        else return -1;
+        int targetIndex = orderAgnosticBS(mountainArr, target, start, mid, true);
+        if (targetIndex == -1) {
+            targetIndex = orderAgnosticBS(mountainArr, target, mid, end, false);
+        }
+        return targetIndex;
     }
 
     public int peakIndexInMountainArray(MountainArray mountainArr) {

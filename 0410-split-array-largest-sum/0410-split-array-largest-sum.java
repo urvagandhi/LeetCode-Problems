@@ -10,17 +10,7 @@ class Solution {
         while (start < end) {
             int mid = start + (end - start) / 2;
 
-            int pieces = 1, sum = 0;
-            for (int num : nums) {
-                if (sum + num <= mid) {
-                    sum += num;
-                } else {
-                    pieces++;
-                    sum = num;
-                }
-            }
-
-            if (pieces <= k) {
+            if (piecesno(nums, mid) <= k) {
                 end = mid;
             } else {
                 start = mid + 1;
@@ -28,5 +18,18 @@ class Solution {
         }
 
         return end;
+    }
+
+    public int piecesno(int[] nums, int mid) {
+        int pieces = 1, sum = 0;
+        for (int num : nums) {
+            if (sum + num <= mid) {
+                sum += num;
+            } else {
+                pieces++;
+                sum = num;
+            }
+        }
+        return pieces;
     }
 }

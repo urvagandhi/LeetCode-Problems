@@ -7,6 +7,11 @@ class Solution {
         while (start <= end) {
             int mid = start + (end - start) / 2;
 
+            //optimization [if mid == pivot, then only]
+            if (nums[start] <= nums[end]){
+                return Math.min(min, nums[start]);
+            }
+
             if (nums[start] <= nums[mid]) {
                 min = Math.min(min, nums[start]);
                 start = mid + 1;

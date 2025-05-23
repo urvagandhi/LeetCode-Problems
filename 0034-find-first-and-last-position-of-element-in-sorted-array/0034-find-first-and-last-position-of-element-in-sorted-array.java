@@ -1,13 +1,17 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
         int ans[] = {-1, -1};
-        int start = search(nums, target, true);
-        int end = search(nums, target, false);
-
-        ans[0] = start;
-        ans[1] = end;
+        ans[0] = search(nums, target, true);
+        ans[1] = search(nums, target, false);
 
         return ans;
+
+        // For Count
+        // if (ans[0] == -1 || ans[1] == -1) return ans;
+        // else {
+        //     int[] count = {ans[1] - ans [0] + 1};
+        //     return count;
+        // }
     }
 
     int search(int[] nums, int target, boolean firstIndex){

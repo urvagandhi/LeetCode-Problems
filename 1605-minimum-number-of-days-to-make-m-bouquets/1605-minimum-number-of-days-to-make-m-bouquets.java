@@ -16,13 +16,12 @@ class Solution {
         while (start <= end) {
             int mid = start + (end - start) / 2;
             if (canMake(bloomDay, m, k, mid)) {
-                result = mid;
                 end = mid - 1;
             } else {
                 start = mid + 1;
             }
         }
-        return result;
+        return start;
     }
 
     private boolean canMake(int[] bloomDay, int m, int k, int day) {
@@ -37,7 +36,6 @@ class Solution {
                     count = 0;
                 }
             } else {
-                bouquets += count/k;
                 count = 0;
             }
         }

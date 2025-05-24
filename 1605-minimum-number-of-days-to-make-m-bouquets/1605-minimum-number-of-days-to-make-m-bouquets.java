@@ -32,20 +32,15 @@ class Solution {
         for (int bloom : bloomDay) {
             if (bloom <= day) {
                 count++;
-                // if (count == k) {
-                //     bouquets++;
-                //     count = 0;
-                // }
+                if (count == k) {
+                    bouquets++;
+                    count = 0;
+                }
             } else {
                 bouquets += count/k;
                 count = 0;
             }
         }
-        bouquets += count / k;
-        if (bouquets >= m)
-            return true;
-        else
-            return false;
-        // return bouquets >= m;
+        return bouquets >= m;
     }
 }

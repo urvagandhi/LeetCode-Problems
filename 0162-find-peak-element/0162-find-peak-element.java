@@ -18,7 +18,7 @@ class Solution {
                 start = mid + 1;
             } else if (arr[mid] > arr[mid + 1]) {
                 end = mid - 1;
-            }
+            } else start = mid + 1;
         }
         return -1;
     }

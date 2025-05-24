@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-find-smallest-letter-greater-than-target](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1185-find-in-mountain-array](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1185-find-in-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-find-smallest-letter-greater-than-target](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1185-find-in-mountain-array](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1185-find-in-mountain-array) |
 ## Interactive
 |  |

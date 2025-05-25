@@ -14,7 +14,7 @@ class Solution {
     public boolean div(int[] nums,int threshold,int mid){
         int sum = 0;
         for(int num : nums){
-            sum += Math.ceil((double)num / (double)mid);
+            sum += Math.ceilDiv(num, mid);
         }
         return sum <= threshold;
     }

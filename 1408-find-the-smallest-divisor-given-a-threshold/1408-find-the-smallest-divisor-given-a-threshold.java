@@ -7,21 +7,21 @@ class Solution {
             end = Math.max(num, end);
         }
 
+        int ans = start;
+
         while(start <= end){
             int mid = start + (end - start)/2;
-
-            int divsum = div(nums, mid);
-            if(div(nums, mid) > threshold) start = mid + 1;
-            else end = mid - 1;
+            if(div(nums, threshold, mid)) end = mid - 1;
+            else start = mid + 1;
         }
         return start;
     }
 
-    public int div(int[] nums, int mid){
+    public boolean div(int[] nums,int threshold,int mid){
         int sum = 0;
         for(int num : nums){
             sum += Math.ceil((double)num / (double)mid);
         }
-        return sum;
+        return sum <= threshold;
     }
 }

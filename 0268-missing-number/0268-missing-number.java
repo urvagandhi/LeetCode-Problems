@@ -14,7 +14,8 @@ class Solution {
             if(arr[index] != index) return index;
         }
 
-        return i;
+        // return i;
+        return arr.length;
     }
 
     static void swap(int[] arr, int first, int second) {

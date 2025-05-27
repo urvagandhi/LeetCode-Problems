@@ -1,19 +1,17 @@
 class Solution {
     public boolean isPalindrome(int x) {
-
-        String numberStr = String.valueOf(x);
-        int length = numberStr.length();
-
-        int[] digits = new int[length];
-        for (int i = 0; i < length; i++) {
-            digits[i] = Character.getNumericValue(numberStr.charAt(i));
+        if (x < 0) {
+            return false;
         }
 
-        for (int i = 0, j = length - 1; i < length && j >= 0; i++, j--) {
-            if (digits[i] != digits[j])
-                return false;
+        int reverse = 0;
+        int xcopy = x;
+
+        while (x > 0) {
+            reverse = (reverse * 10) + (x % 10);
+            x /= 10;
         }
 
-        return true;
+        return reverse == xcopy;        
     }
 }

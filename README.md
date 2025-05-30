@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [1970-sorting-the-sentence](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1970-sorting-the-sentence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,4 +131,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1205-defanging-an-ip-address](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1797-goal-parser-interpretation) |
+| [1970-sorting-the-sentence](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1970-sorting-the-sentence) |
 <!---LeetCode Topics End-->

@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1651-shuffle-string) |
 | [2047-find-a-peak-element-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2047-find-a-peak-element-ii) |
 ## Math
 |  |
@@ -127,4 +128,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1205-defanging-an-ip-address](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
+| [1651-shuffle-string](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1651-shuffle-string) |
 <!---LeetCode Topics End-->

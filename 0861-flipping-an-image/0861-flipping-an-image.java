@@ -3,17 +3,13 @@ class Solution {
         for (int i = 0; i < image.length; i++) {
 
             int left = 0, right = image[i].length - 1;
-            while (left < right) {
+            while (left <= right) {
                 int temp = image[i][left] ^ 1;
                 image[i][left] = image[i][right] ^ 1;
                 image[i][right] = temp;
 
                 left++;
                 right--;
-            }
-
-            if (left == right) {
-                image[i][left] ^= 1;
             }
         }
         return image;

@@ -130,11 +130,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0861-flipping-an-image) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0742-to-lower-case](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1651-shuffle-string) |

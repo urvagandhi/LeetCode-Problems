@@ -1,9 +1,7 @@
 class Solution {
     public int fib(int n) {
-        if (n <= 1)
-            return n;
-        else if (n < 5)
-            return n - 1;
-        return fib(n - 1) + fib(n - 2);
+        double sqrt5 = Math.sqrt(5);
+        double phi = (1 + sqrt5) / 2;
+        return (int) Math.round(Math.pow(phi, n) / sqrt5);
     }
 }

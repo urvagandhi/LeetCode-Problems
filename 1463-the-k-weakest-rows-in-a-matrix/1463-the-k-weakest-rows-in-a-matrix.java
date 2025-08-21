@@ -2,27 +2,37 @@ import java.util.*;
 
 class Solution {
     public int[] kWeakestRows(int[][] mat, int k) {
-        int[][] info = new int[mat.length][2];
-
-        for (int r = 0; r < mat.length; r++) {
-            int count = 0;
-            for (int val : mat[r]) {
-                count += val;
+        int m = mat.length;
+        int n = mat[0].length;
+        
+        int[] strength = new int[m];
+        
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (mat[i][j] == 1) {
+                    strength[i]++;
+                } else {
+                    break;
+                }
             }
-            info[r][0] = count;
-            info[r][1] = r;
         }
-
-        Arrays.sort(info, (a, b) -> {
-            if (a[0] == b[0]) return a[1] - b[1];
-            return a[0] - b[0];
+        
+        List<Integer> rowIndices = new ArrayList<>();
+        for (int i = 0; i < m; i++) {
+            rowIndices.add(i);
+        }
+        Collections.sort(rowIndices, (a, b) -> {
+            if (strength[a] == strength[b]) {
+                return a - b;
+            }
+            return strength[a] - strength[b];
         });
-
-        int[] ans = new int[k];
+        
+        int[] result = new int[k];
         for (int i = 0; i < k; i++) {
-            ans[i] = info[i][1];
+            result[i] = rowIndices.get(i);
         }
-
-        return ans;
+        
+        return result;
     }
 }

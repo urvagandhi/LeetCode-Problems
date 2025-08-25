@@ -9,51 +9,46 @@
  * }
  */
 class Solution {
-    public boolean isPalindrome(ListNode head) {
+   public boolean isPalindrome(ListNode head) {
+        if (head == null || head.next == null) return true;
 
-        ListNode mid = middleNode(head);
-        ListNode headSecond = reverseList(mid);
-        ListNode reverseSecondHead = headSecond;
-
-        while (head != null && headSecond != null) {
-            if (head.val != headSecond.val) {
-                break;
-                // return false;
-            }
-            head = head.next;
-            headSecond = headSecond.next;
-        }
-
-        // Optional
-        reverseList(reverseSecondHead);
-        return head == null || headSecond == null;
-    }
-
-    public ListNode reverseList(ListNode head) {
-        if(head == null){
-            return head;
-        }
-        ListNode prev = null;
-        ListNode present = head;
-        ListNode next = present.next;
-        while (present != null) {
-            present.next = prev;
-            prev = present;
-            present = next;
-            if(next != null){
-                next = next.next;
-            }
-        }
-        return prev;
-    }
-
-    public ListNode middleNode(ListNode head) {
-        ListNode slow = head;
-        ListNode fast = head;
+        // 1) Find middle (slow lands at mid; for odd length, slow at the exact middle)
+        ListNode slow = head, fast = head;
         while (fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
-        return slow;
+
+        // If odd length, skip the middle node for comparison
+        if (fast != null) slow = slow.next;
+
+        // 2) Reverse second half
+        ListNode second = reverse(slow);
+
+        // 3) Compare first half and reversed second half
+        ListNode p1 = head, p2 = second;
+        boolean ok = true;
+        while (p2 != null) { // second half is <= first half
+            if (p1.val != p2.val) { ok = false; break; }
+            p1 = p1.next;
+            p2 = p2.next;
+        }
+
+        // 4) Restore the list (optional but clean)
+        reverse(second);
+
+        return ok;
+    }
+
+    // Standard in-place reverse
+    private ListNode reverse(ListNode node) {
+        ListNode prev = null, curr = node;
+        while (curr != null) {
+            ListNode nxt = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = nxt;
+        }
+        return prev;
     }
 }

@@ -1,39 +1,42 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-        ListNode curr = head;
-        ListNode prevTail = null;
+        if (head == null || k == 1) return head;
+
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+        ListNode prev = dummy, curr = head;
+
+        int count = 0;
         while (curr != null) {
-            ListNode kthNode = getKthNode(curr, k);
-            if (kthNode == null) {
-                if (prevTail != null) prevTail.next = curr;
-                break;
+            count++;
+            curr = curr.next;
+        }
+
+        while (count >= k) {
+            curr = prev.next;
+            ListNode next = curr.next;
+
+            for (int i = 1; i < k; i++) {
+                curr.next = next.next;
+                next.next = prev.next;
+                prev.next = next;
+                next = curr.next;
             }
-            ListNode nextNode = kthNode.next;
-            kthNode.next = null;
-            ListNode rev = reverseList(curr);
-            if (curr == head) head = rev;
-            else prevTail.next = rev;
-            prevTail = curr;
-            curr.next = nextNode;
-            curr = nextNode;
-        }
-        return head;
-    }
 
-    private ListNode reverseList(ListNode head) {
-        ListNode prev = null, curr = head, next;
-        while (curr != null) {
-            next = curr.next;
-            curr.next = prev;
             prev = curr;
-            curr = next;
+            count -= k;
         }
-        return prev;
-    }
 
-    private ListNode getKthNode(ListNode head, int k) {
-        ListNode curr = head;
-        while (curr != null && --k > 0) curr = curr.next;
-        return curr;
+        return dummy.next;
     }
 }

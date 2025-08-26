@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0009-palindrome-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0125-valid-palindrome) |
+| [0241-different-ways-to-add-parentheses](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0742-to-lower-case](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1651-shuffle-string) |
@@ -176,11 +179,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |

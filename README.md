@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1651-shuffle-string](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2047-find-a-peak-element-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2047-find-a-peak-element-ii) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Math
 |  |
 | ------- |

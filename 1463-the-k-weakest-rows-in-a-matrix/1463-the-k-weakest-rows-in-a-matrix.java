@@ -1,39 +1,34 @@
+public class Solution {
+    public int[] kWeakestRows(int[][] mat, int k) {
+        int[] ones = new int[mat.length];
 
-class Solution {
-    public int[] kWeakestRows(int[][] matrix, int k) {
-        PriorityQueue<int[]> minHeap = new PriorityQueue<>((a, b) -> {
-            if (a[0] != b[0]) {
-                return Integer.compare(a[0], b[0]);
-            } else {
-                return Integer.compare(a[1], b[1]);
+        for (int i = 0; i < mat.length; i++) {
+            int count = 0;
+            for (int j = 0; j < mat[i].length; j++) {
+                if (mat[i][j] == 1) {
+                    count++;
+                }
             }
-        });
-
-        for (int row = 0; row < matrix.length; row++) {
-            int soldierCount = findSoldierCount(matrix[row]);
-            minHeap.offer(new int[]{soldierCount, row});
+            ones[i] = count;
         }
 
-        int[] weakestRows = new int[k];
+        int[] res = new int[k];
+
         for (int i = 0; i < k; i++) {
-            weakestRows[i] = minHeap.poll()[1];
-        }
+            int min = 101;
+            int index = -1;
 
-        return weakestRows;
-    }
-
-    private int findSoldierCount(int[] row) {
-        int left = 0, right = row.length - 1;
-
-        while (left <= right) {
-            int mid = (left + right) / 2;
-            if (row[mid] == 1) {
-                left = mid + 1;
-            } else {
-                right = mid - 1;
+            for (int j = 0; j < ones.length; j++) {
+                if (ones[j] < min) {
+                    min = ones[j];
+                    index = j;
+                }
             }
+
+            res[i] = index;
+            ones[index] = 101;
         }
 
-        return left;
+        return res;
     }
 }

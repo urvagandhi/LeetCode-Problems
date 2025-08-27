@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0645-set-mismatch) |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 ## Union Find
 |  |
@@ -130,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
@@ -144,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |

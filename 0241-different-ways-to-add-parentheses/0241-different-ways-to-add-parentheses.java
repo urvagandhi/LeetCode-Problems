@@ -1,38 +1,44 @@
 import java.util.*;
 
 class Solution {
-    HashMap<String, List<Integer>> m = new HashMap<>();
+    public List<Integer> diffWaysToCompute(String expression) {
+        return solveRec(expression, 0, expression.length() - 1);
+    }
 
-    public List<Integer> solveRec(String s) {
-        if (m.containsKey(s))
-            return m.get(s);
+    public List<Integer> solveRec(String exp, int start, int end) {
+        List<Integer> res = new ArrayList<>();
 
-        List<Integer> ans = new ArrayList<>();
-        for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            if (c == '+' || c == '-' || c == '*') {
-                List<Integer> left = solveRec(s.substring(0, i));
-                List<Integer> right = solveRec(s.substring(i + 1));
+        if (start == end) {
+            int num = exp.charAt(start) - '0';
+            res.add(num);
+            return res;
+        }
 
-                for (int l : left) {
-                    for (int r : right) {
-                        if (c == '+')
-                            ans.add(l + r);
-                        else if (c == '-')
-                            ans.add(l - r);
-                        else
-                            ans.add(l * r);
-                    }
+        if (end - start == 1 && Character.isDigit(exp.charAt(start))) {
+            int num = Integer.parseInt(exp.substring(start, end + 1));
+            res.add(num);
+            return res;
+        }
+
+        for (int i = start; i <= end; i++) {
+            if (Character.isDigit(exp.charAt(i))) {
+                continue;
+            }
+            char op = exp.charAt(i);
+            List<Integer> left = solveRec(exp, start, i - 1);
+            List<Integer> right = solveRec(exp, i + 1, end);
+
+            for (int l : left) {
+                for (int r : right) {
+                    if (op == '+')
+                        res.add(l + r);
+                    else if (op == '-')
+                        res.add(l - r);
+                    else if (op == '*')
+                        res.add(l * r);
                 }
             }
         }
-        if (ans.isEmpty())
-            ans.add(Integer.parseInt(s));
-        m.put(s, ans);
-        return ans;
-    }
-
-    public List<Integer> diffWaysToCompute(String expression) {
-        return solveRec(expression);
+        return res;
     }
 }

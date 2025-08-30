@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0143-reorder-list) |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |

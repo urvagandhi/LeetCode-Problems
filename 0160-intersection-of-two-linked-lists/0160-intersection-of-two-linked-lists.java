@@ -10,41 +10,18 @@
  * }
  */
 public class Solution {
-    public int length(ListNode temp){
-        int length = 0;
-        while(temp != null){
-            temp = temp.next;
-            length++;
-        }
-        return length;
-    }
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+        if (headA == null || headB == null)
+            return null;
 
-        int length1 = length(headA);
-        int length2 = length(headB);
+        ListNode a = headA;
+        ListNode b = headB;
 
-        ListNode check1 = headA;
-        ListNode check2 = headB;
-        while(length1 > 0 && length2 > 0){
-            if(check1 == check2){
-                return check1;
-            }
-            else{
-                if(length1>length2){
-                    check1 = check1.next;
-                    length1--;
-                }else if(length1 < length2){
-                    check2 = check2.next;
-                    length2--;
-                } else{
-                    check1 = check1.next;
-                    check2 = check2.next;
-                    length1--;
-                    length2--;
-                }
-            }
+        while (a != b) {
+            a = a == null ? headB : a.next;
+            b = b == null ? headA : b.next;
         }
 
-        return null;
+        return a;
     }
 }

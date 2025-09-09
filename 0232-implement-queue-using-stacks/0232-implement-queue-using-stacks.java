@@ -1,8 +1,7 @@
 class MyQueue {
-
     private Stack<Integer> first;
     private Stack<Integer> second;
-    
+
     public MyQueue() {
         first = new Stack<>();
         second = new Stack<>();
@@ -13,37 +12,28 @@ class MyQueue {
     }
     
     public int pop() {
-        while(!first.isEmpty()){
-            second.push(first.pop());
+        if (second.isEmpty()) {
+            while (!first.isEmpty()) {
+                second.push(first.pop());
+            }
         }
-
-        int removed = second.pop();
-
-        while(!second.isEmpty()){
-            first.push(second.pop());
-        }
-
-        return removed;
+        return second.pop();
     }
     
     public int peek() {
-        while(!first.isEmpty()){
-            second.push(first.pop());
+        if (second.isEmpty()) {
+            while (!first.isEmpty()) {
+                second.push(first.pop());
+            }
         }
-
-        int top = second.peek();
-
-        while(!second.isEmpty()){
-            first.push(second.pop());
-        }
-
-        return top;
+        return second.peek();
     }
     
     public boolean empty() {
-        return first.isEmpty();
+        return first.isEmpty() && second.isEmpty();
     }
 }
+
 
 /**
  * Your MyQueue object will be instantiated and called as such:

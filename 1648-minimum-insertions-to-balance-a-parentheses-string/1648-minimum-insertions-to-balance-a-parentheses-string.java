@@ -1,11 +1,11 @@
 class Solution {
     public int minInsertions(String s) {
-        Stack<Character> stack = new Stack<>();
+        int stack = 0;
         int count = 0;
         for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            if (c == '(') {
-                stack.push(c);
+            char ch = s.charAt(i);
+            if (ch == '(') {
+                stack++;
             } else {
                 if (i + 1 < s.length() && s.charAt(i + 1) == ')') {
                     i++;
@@ -13,14 +13,14 @@ class Solution {
                     count++;
                 }
 
-                if (!stack.isEmpty()) {
-                    stack.pop();
+                if (stack > 0) {
+                    stack--;
                 } else {
                     count++;
                 }
             }
         }
-        count += 2 * stack.size();
+        count = count + stack * 2;
         return count;
     }
 }

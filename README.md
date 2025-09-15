@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1635-number-of-good-pairs](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0742-to-lower-case](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0742-to-lower-case) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1205-defanging-an-ip-address](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1651-shuffle-string](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |

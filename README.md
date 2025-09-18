@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
@@ -290,4 +292,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

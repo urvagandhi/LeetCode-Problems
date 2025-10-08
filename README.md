@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1651-shuffle-string](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2047-find-a-peak-element-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2047-find-a-peak-element-ii) |
+| [2118-maximum-earnings-from-taxi](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2118-maximum-earnings-from-taxi) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Math
 |  |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2047-find-a-peak-element-ii) |
+| [2118-maximum-earnings-from-taxi](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2118-maximum-earnings-from-taxi) |
 ## Interactive
 |  |
 | ------- |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2118-maximum-earnings-from-taxi](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2118-maximum-earnings-from-taxi) |
 ## Greedy
 |  |
 | ------- |
@@ -137,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1635-number-of-good-pairs](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
+| [2118-maximum-earnings-from-taxi](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2118-maximum-earnings-from-taxi) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -176,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1970-sorting-the-sentence](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1970-sorting-the-sentence) |
+| [2118-maximum-earnings-from-taxi](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2118-maximum-earnings-from-taxi) |
 ## Two Pointers
 |  |
 | ------- |

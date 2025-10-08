@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0792-binary-search) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0561-array-partition](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Prefix Sum
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1970-sorting-the-sentence](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1970-sorting-the-sentence) |
@@ -326,4 +329,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->

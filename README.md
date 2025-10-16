@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0051-n-queens) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

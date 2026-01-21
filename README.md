@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2118-maximum-earnings-from-taxi](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2118-maximum-earnings-from-taxi) |
 | [2479-meeting-rooms-iii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/urvagandhi/LeetCode-Problems/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/urvagandhi/LeetCode-Problems/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Sorting
 |  |
 | ------- |

@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2479-meeting-rooms-iii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/urvagandhi/LeetCode-Problems/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/urvagandhi/LeetCode-Problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [2118-maximum-earnings-from-taxi](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2118-maximum-earnings-from-taxi) |
 | [2479-meeting-rooms-iii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/urvagandhi/LeetCode-Problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0861-flipping-an-image](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [2479-meeting-rooms-iii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/urvagandhi/LeetCode-Problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -268,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2479-meeting-rooms-iii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/urvagandhi/LeetCode-Problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
 | ------- |
@@ -289,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0328-odd-even-linked-list](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/urvagandhi/LeetCode-Problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -344,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/urvagandhi/LeetCode-Problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Tree
 |  |
 | ------- |
@@ -360,4 +366,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0561-array-partition) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/urvagandhi/LeetCode-Problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->

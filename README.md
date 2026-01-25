@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1651-shuffle-string](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2047-find-a-peak-element-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2047-find-a-peak-element-ii) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/urvagandhi/LeetCode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2118-maximum-earnings-from-taxi](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2118-maximum-earnings-from-taxi) |
 | [2479-meeting-rooms-iii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1970-sorting-the-sentence](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1970-sorting-the-sentence) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/urvagandhi/LeetCode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2118-maximum-earnings-from-taxi](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2118-maximum-earnings-from-taxi) |
 | [2479-meeting-rooms-iii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
 ## Two Pointers
@@ -309,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/urvagandhi/LeetCode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Design
 |  |
 | ------- |

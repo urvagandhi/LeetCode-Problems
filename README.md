@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
 | ------- |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/urvagandhi/LeetCode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Design

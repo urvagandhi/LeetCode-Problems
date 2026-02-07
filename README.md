@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-flipping-an-image](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1185-find-in-mountain-array) |
 | [1306-minimum-absolute-difference](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1306-minimum-absolute-difference) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1185-find-in-mountain-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
@@ -322,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/urvagandhi/LeetCode-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |

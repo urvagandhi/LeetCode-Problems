@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1185-find-in-mountain-array) |
 | [1306-minimum-absolute-difference](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1306-minimum-absolute-difference) |
+| [1370-count-number-of-nice-subarrays](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0372-super-pow](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0372-super-pow) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1013-fibonacci-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
@@ -162,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1370-count-number-of-nice-subarrays](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [2118-maximum-earnings-from-taxi](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2118-maximum-earnings-from-taxi) |
@@ -338,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |

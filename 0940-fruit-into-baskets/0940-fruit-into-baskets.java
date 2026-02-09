@@ -4,12 +4,24 @@ class Solution {
         int l = 0, maxLength = 0;
 
         for (int r = 0; r < fruits.length; r++) {
-            map.put(fruits[r], map.getOrDefault(fruits[r], 0) + 1);
-            while (map.size() > 2) {
-                map.put(fruits[l], map.getOrDefault(fruits[l], 0) - 1);
-                if (map.get(fruits[l]) == 0)
-                    map.remove(fruits[l]);
-                l++;
+            map.put(fruits[r], r);
+            if (map.size() > 2) {
+                // find minimum index
+                int minIndex = Integer.MAX_VALUE;
+                for (int idx : map.values()) {
+                    minIndex = Math.min(minIndex, idx);
+                }
+
+                // move left pointer directly
+                l = minIndex + 1;
+
+                // remove fruit with smallest index
+                for (int key : map.keySet()) {
+                    if (map.get(key) == minIndex) {
+                        map.remove(key);
+                        break;
+                    }
+                }
             }
             maxLength = Math.max(maxLength, r - l + 1);
         }

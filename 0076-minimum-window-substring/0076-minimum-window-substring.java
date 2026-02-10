@@ -1,45 +1,45 @@
 class Solution {
+
+    private boolean matches(int[] a, int[] b) {
+        for (int i = 0; i < 128; i++) {
+            if (a[i] < b[i]) return false;
+        }
+        return true;
+    }
+
     public String minWindow(String s, String t) {
 
-        StringBuilder ans = new StringBuilder();
+        if (t.length() > s.length()) return "";
 
-        int count = 0, l = 0, minLen = Integer.MAX_VALUE, sIndex = -1;
+        int[] freqs = new int[128];
+        int[] freqt = new int[128];
 
-        HashMap<Character, Integer> map = new HashMap<>();
-
-        // build frequency map of t
-        for (int r = 0; r < t.length(); r++) {
-            char ch = t.charAt(r);
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
+        for (char c : t.toCharArray()) {
+            freqt[c]++;
         }
 
-        for (int r = 0; r < s.length(); r++) {
+        int left = 0;
+        int minLen = Integer.MAX_VALUE;
+        int start = 0;
 
-            char c = s.charAt(r);
+        for (int right = 0; right < s.length(); right++) {
 
-            if (map.containsKey(c)) {
-                if (map.get(c) > 0) count++;
-                map.put(c, map.get(c) - 1);
-            }
+            freqs[s.charAt(right)]++;
 
-            while (count == t.length()) {
+            while (matches(freqs, freqt)) {
 
-                if (r - l + 1 < minLen) {
-                    minLen = r - l + 1;
-                    sIndex = l;
+                if (right - left + 1 < minLen) {
+                    minLen = right - left + 1;
+                    start = left;
                 }
 
-                char leftChar = s.charAt(l);
-
-                if (map.containsKey(leftChar)) {
-                    map.put(leftChar, map.get(leftChar) + 1);
-                    if (map.get(leftChar) > 0) count--;
-                }
-
-                l++;   // IMPORTANT
+                freqs[s.charAt(left)]--;
+                left++;
             }
         }
 
-        return sIndex == -1 ? "" : s.substring(sIndex, sIndex + minLen);
+        if (minLen == Integer.MAX_VALUE) return "";
+
+        return s.substring(start, start + minLen);
     }
 }

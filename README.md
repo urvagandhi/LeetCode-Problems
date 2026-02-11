@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0890-lemonade-change](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Prefix Sum

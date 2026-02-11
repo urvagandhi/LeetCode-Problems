@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0455-assign-cookies) |

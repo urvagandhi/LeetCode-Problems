@@ -3,15 +3,15 @@ class Solution {
         Arrays.sort(g);
         Arrays.sort(s);
 
-        int l = 0, r = 0, count= 0;
+        int l = 0, r = 0;
 
-        while(l < g.length && r < s.length){
-            if(s[r] >= g[l]){
-                count++;
-                l++;
+        while (l < g.length && r < s.length) {
+            if (s[r] >= g[l]) {
+                l++;     // child satisfied
             }
-            r++;
+            r++;         // move to next cookie
         }
-        return count;
+
+        return l;
     }
 }

@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0493-reverse-pairs) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2118-maximum-earnings-from-taxi](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2118-maximum-earnings-from-taxi) |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
@@ -226,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0645-set-mismatch) |

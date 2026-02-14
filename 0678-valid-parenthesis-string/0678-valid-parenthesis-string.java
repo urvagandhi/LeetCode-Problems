@@ -1,28 +1,31 @@
 class Solution {
     public boolean checkValidString(String s) {
-        int min = 0, max = 0;
+        Stack<Integer> open = new Stack<>();
+        Stack<Integer> star = new Stack<>();
 
         for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
 
             if (c == '(') {
-                min++;
-                max++;
-            } else if (c == ')') {
-                min--;
-                max--;
-            } else { // '*'
-                min--;      // treat as ')'
-                max++;      // treat as '('
+                open.push(i);
+            } else if (c == '*') {
+                star.push(i);
+            } else { // ')'
+                if (!open.isEmpty()) {
+                    open.pop();
+                } else if (!star.isEmpty()) {
+                    star.pop();
+                } else {
+                    return false;
+                }
             }
-
-            // If even the maximum is negative, impossible
-            if (max < 0) return false;
-
-            // Minimum can't go below 0
-            min = Math.max(min, 0);
         }
 
-        return min == 0;
+        // Match remaining '(' with '*'
+        while (!open.isEmpty() && !star.isEmpty()) {
+            if (star.pop() < open.pop()) return false;
+        }
+
+        return open.isEmpty();
     }
 }

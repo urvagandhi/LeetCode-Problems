@@ -2,29 +2,46 @@ class Solution {
     public int candy(int[] ratings) {
 
         int n = ratings.length;
-        int[] candies = new int[n];
 
-        // Step 1: everyone gets 1 candy
-        Arrays.fill(candies, 1);
+        // Initially give 1 candy to each child
+        int candies = n;
 
-        // Step 2: left to right
-        for(int i = 1; i < n; i++){
-            if(ratings[i] > ratings[i-1]){
-                candies[i] = candies[i-1] + 1;
+        // Start from second child
+        int i = 1;
+
+        while (i < n) {
+
+            // Skip equal ratings
+            if (ratings[i] == ratings[i - 1]) {
+                i++;
+                continue;
             }
+
+            // Initialize increasing slope counter
+            int peak = 0;
+
+            // Traverse strictly increasing ratings
+            while (i < n && ratings[i] > ratings[i - 1]) {
+                peak++;
+                candies += peak;
+                i++;
+            }
+
+            // Initialize decreasing slope counter
+            int valley = 0;
+
+            // Traverse strictly decreasing ratings
+            while (i < n && ratings[i] < ratings[i - 1]) {
+                valley++;
+                candies += valley;
+                i++;
+            }
+
+            // Remove overlapping candy at the peak
+            candies -= Math.min(peak, valley);
         }
 
-        // Step 3: right to left
-        for(int i = n-2; i >= 0; i--){
-            if(ratings[i] > ratings[i+1]){
-                candies[i] = Math.max(candies[i], candies[i+1] + 1);
-            }
-        }
-
-        // Step 4: sum
-        int sum = 0;
-        for(int c : candies) sum += c;
-
-        return sum;
+        // Return total candies required
+        return candies;
     }
 }

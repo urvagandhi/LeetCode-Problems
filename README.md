@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0372-super-pow) |
 | [0493-reverse-pairs](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0493-reverse-pairs) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |

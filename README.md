@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
@@ -427,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -436,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Counting Sort
 |  |
 | ------- |
@@ -448,4 +451,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->

@@ -17,28 +17,36 @@ class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
 
         List<Integer> res = new ArrayList<>();
-        if (root == null)
-            return res;
+        Stack<TreeNode> st = new Stack<>();
 
-        Stack<TreeNode> st1 = new Stack<>();
-        Stack<TreeNode> st2 = new Stack<>();
+        TreeNode cur = root;
 
-        st1.push(root);
+        while (cur != null || !st.isEmpty()) {
 
-        while (!st1.isEmpty()) {
+            // Go left as much as possible
+            if (cur != null) {
+                st.push(cur);
+                cur = cur.left;
+            } 
+            else {
+                TreeNode temp = st.peek().right;
 
-            TreeNode node = st1.pop();
-            st2.push(node);
+                // If right subtree does not exist
+                if (temp == null) {
+                    temp = st.pop();
+                    res.add(temp.val);
 
-            if (node.left != null)
-                st1.push(node.left);
-
-            if (node.right != null)
-                st1.push(node.right);
-        }
-
-        while (!st2.isEmpty()) {
-            res.add(st2.pop().val);
+                    // Keep popping while coming from right child
+                    while (!st.isEmpty() && temp == st.peek().right) {
+                        temp = st.pop();
+                        res.add(temp.val);
+                    }
+                } 
+                // Otherwise go right
+                else {
+                    cur = temp;
+                }
+            }
         }
 
         return res;

@@ -17,28 +17,13 @@ class Solution {
     public int maxDepth(TreeNode root) {
         if (root == null) return 0;
 
-        Queue<TreeNode> que = new LinkedList<>();
-        que.add(root);
-        int count = 0;
+        // Get depth of left subtree
+        int leftDepth = maxDepth(root.left);
 
-        while (!que.isEmpty()) {
+        // Get depth of right subtree
+        int rightDepth = maxDepth(root.right);
 
-            int size = que.size();
-
-            for (int i = 0; i < size; i++) {
-
-                TreeNode node = que.poll();   // REMOVE front
-
-                if (node.left != null)
-                    que.add(node.left);
-
-                if (node.right != null)
-                    que.add(node.right);
-            }
-
-            count++;
-        }
-
-        return count;
+        // Current depth = 1 + maximum of both sides
+        return 1 + Math.max(leftDepth, rightDepth);
     }
 }

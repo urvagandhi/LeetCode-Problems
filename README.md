@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0372-super-pow) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0693-binary-number-with-alternating-bits) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/urvagandhi/LeetCode-Problems/tree/master/3611-construct-the-minimum-bitwise-array-ii) |

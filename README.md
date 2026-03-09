@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1306-minimum-absolute-difference](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1306-minimum-absolute-difference) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1970-sorting-the-sentence](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1970-sorting-the-sentence) |
@@ -442,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -460,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Counting Sort
 |  |
 | ------- |
@@ -479,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -487,4 +492,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->

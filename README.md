@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [0868-binary-gap](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/urvagandhi/LeetCode-Problems/tree/master/1009-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/urvagandhi/LeetCode-Problems/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Sorting

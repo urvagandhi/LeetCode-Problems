@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2118-maximum-earnings-from-taxi](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2118-maximum-earnings-from-taxi) |
 | [2479-meeting-rooms-iii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/urvagandhi/LeetCode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/urvagandhi/LeetCode-Problems/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/urvagandhi/LeetCode-Problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Math
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/urvagandhi/LeetCode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2118-maximum-earnings-from-taxi](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2118-maximum-earnings-from-taxi) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/urvagandhi/LeetCode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Interactive
 |  |
 | ------- |
@@ -154,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/urvagandhi/LeetCode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -341,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2479-meeting-rooms-iii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/urvagandhi/LeetCode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/urvagandhi/LeetCode-Problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |

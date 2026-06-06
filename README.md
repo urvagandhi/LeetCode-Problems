@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/urvagandhi/LeetCode-Problems/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/urvagandhi/LeetCode-Problems/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/urvagandhi/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/urvagandhi/LeetCode-Problems/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0372-super-pow](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0372-super-pow) |
 | [0493-reverse-pairs](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
@@ -373,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/urvagandhi/LeetCode-Problems/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 ## Stack
 | Problem Name | Difficulty |
@@ -429,14 +433,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/urvagandhi/LeetCode-Problems/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/urvagandhi/LeetCode-Problems/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/urvagandhi/LeetCode-Problems/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/UrvaGandhi24/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/urvagandhi/LeetCode-Problems/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Tree
